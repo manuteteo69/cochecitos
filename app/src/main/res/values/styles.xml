@@ -4,7 +4,6 @@
         name="BottomNavIndicator.Purple"
     parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
 
-
     <item name="android:color">@color/red</item>
 </style>
 
